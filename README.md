@@ -2,4 +2,4 @@
 
 目前正在维护网站:[www.autunomy.top](www.autunomy.top) 欢迎大家访问。(请不要攻击我的网站！！)
 
-个人算法学习路线:[https://github.com/Autunomy/algothrim-study](https://github.com/Autunomy/algothrim-study)
+算法题解:[https://github.com/Autunomy/algothrim-study](https://github.com/Autunomy/algothrim-study)
